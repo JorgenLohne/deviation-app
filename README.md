@@ -1,2 +1,2 @@
-# deviation-app
-App for deviations
+# Deviation-app (Fysj)
+App for deviations, client for [deviation-tracker](https://github.com/JorgenLohne/deviation-tracker)
